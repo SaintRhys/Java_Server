@@ -5,6 +5,7 @@ public class Region {
     String id;
     String name;
 
+    // region class, with getters and setters
     public Region(String id, String name) {
         this.id = id;
         this.name = name;
